@@ -1,4 +1,128 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-}
+[
+  {
+    "item": "home",
+    "schoolname": "Southern Methodist University",
+    "abbreviation": "SMU",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#CC0035",
+    "primaryBrandColor": "#354CA1",
+    "buttonColor": "#CC0035",
+    "buttonTextColor": "#FFFFFF",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/smu.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/smu.png",
+    "partner_id": "0014T00000aaKH9QAM",
+    "programName": "SMU Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": "3 SMU credits",
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "about",
+    "schoolname": "Southern Methodist University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "Perkins Administration Building\r\n6425 Boaz Lane, Suite 208\r\nDallas TX 75275-0221",
+    "abbreviation": "SMU",
+    "phone": "(469) 991-3059",
+    "credits": "3 SMU credits",
+    "programFee": null,
+    "seasonYear": null,
+    "season": null,
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "3 SMU credits",
+    "abbreviation": "SMU",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Southern Methodist University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "3 SMU credits",
+    "abbreviation": "SMU",
+    "registrationMessage": null,
+    "courseCode1": "UNIV 3399",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": null,
+    "term1EndDate": null,
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 8"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Southern Methodist University",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "3 SMU credits",
+    "abbreviation": "SMU",
+    "registrationMessage": null,
+    "courseCode1": "UNIV 3399",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": null,
+    "term1EndDate": null,
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 8"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Southern Methodist University",
+    "trackTitle": "Data Analytics Track",
+    "credits": "3 SMU credits",
+    "abbreviation": "SMU",
+    "registrationMessage": null,
+    "courseCode1": "UNIV 3399",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": null,
+    "term1EndDate": null,
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 8"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Southern Methodist University",
+    "trackTitle": "Coding for Data Track",
+    "credits": "3 SMU credits",
+    "abbreviation": "SMU",
+    "registrationMessage": null,
+    "courseCode1": "UNIV 3399",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": null,
+    "term1EndDate": null,
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 8"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Southern Methodist University",
+    "trackTitle": "Career Rotation Track",
+    "credits": "3 SMU credits",
+    "abbreviation": "SMU",
+    "registrationMessage": null,
+    "courseCode1": "UNIV 3399",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": null,
+    "term1EndDate": null,
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 8"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "SMU Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(469) 991-3059",
+    "abbreviation": "SMU"
+  },
+  {
+    "item": "begin",
+    "credits": "3 SMU credits",
+    "abbreviation": "SMU",
+    "phone": "(469) 991-3059"
+  }
+]
